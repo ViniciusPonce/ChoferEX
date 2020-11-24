@@ -1,0 +1,13 @@
+{
+  "name": "ChoferEX",
+  "displayName": "ChoferEX",
+  "expo": {
+    "name": "ChoferEX",
+    "slug": "ChoferEX",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}
